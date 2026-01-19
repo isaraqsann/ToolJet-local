@@ -62,8 +62,8 @@ $color-dark-grass-11: #63C174;
 $color-light-base: #ffffff;
 $color-dark-base :#121212;
 
-$primary-rgb: 77, 114, 250;
-$primary-rgb-darker: 77, 94, 240;
+$primary-rgb: 249, 115, 22; // orange-500
+$primary-rgb-darker: 234, 88, 12; // orange-600
 $primary: unquote("rgb(#{$primary-rgb})");
 $primary-light: unquote("rgb(#{$primary-rgb-darker})");
 
